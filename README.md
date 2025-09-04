@@ -1,7 +1,7 @@
 # 🤖 Automations Hub
 
 Bem-vindo ao **Automations Hub**, um repositório dedicado a **soluções de automação** que otimizam processos cotidianos de diferentes segmentos.  
-Aqui você encontrará automações que vão desde **ETL (Extract, Transform, Load)** até integrações com **CRM**, fluxos de comunicação e **otimização de processos internos**.
+Aqui você encontrará automações que vão desde **ETL** até integrações com **CRM**, fluxos de comunicação e **otimização de processos internos**.
 
 <br>
 
